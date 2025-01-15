@@ -1,6 +1,6 @@
 <h1> Educatıons </h1>
 
-This project is an asynchronous JavaScript application created with Pokemon trading cards, allowing the search for specific characters.
+Education is my first HTML and CSS project. It features a user-friendly interface and a responsive design, ensuring accessibility across various devices. This project reflects my foundational skills in web development and design.
 
 <h2> The technologies used in the project </h2>
 
